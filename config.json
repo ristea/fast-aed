@@ -1,0 +1,50 @@
+{
+  "exp_name": "avenue_exp",
+  "exp_path": "./experiments",
+  "about_experiment": "0.05",
+
+  "data_set": "av",
+
+  "start_adv_epoch": 0,
+  "adv_gen_weight": 0.1,
+  "teachers": ["teacher1", "teacher2"],
+  "teachers_weights": {
+    "teacher1":  1.0,
+    "teacher2": 1.0
+  },
+
+  "av_train_data_path": "avenue/train/frames",
+  "av_train_labels_path_teacher1": "avenue/train/predictions/for/teacher1",
+  "av_train_labels_path_teacher2": "avenue/train/predictions/for/teacher2",
+
+  "av_test_data_path": "avenue/test/frames",
+  "av_test_labels_path_teacher1": "avenue/test/predictions/for/teacher1",
+  "av_test_labels_path_teacher2": "avenue/test/predictions/for/teacher2",
+  "av_test_labels_path": "avenue/test/labels",
+
+
+  "lr": 0.0001,
+  "lr_sch_step": 10,
+  "lr_sch_gamma": 0.5,
+  "weight_decay": 0.000005,
+  "batch_size": 48,
+
+  "loss_function": "stage_loss",
+
+  "train_epochs": 35,
+  "eval_net_epoch": 1,
+  "save_net_epochs": 30,
+
+  "print_loss": 100,
+  "resume_training": false,
+
+  "sh": {
+    "w": 640,
+    "h": 360
+  },
+  "av": {
+    "w": 640,
+    "h": 360
+  },
+  "extension": ".png"
+}
