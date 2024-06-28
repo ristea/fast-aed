@@ -1,4 +1,4 @@
-# Fast-AED: Lightning Fast Video Anomaly Detection via Multi-Scale Adversarial Distillation
+# Lightning Fast Video Anomaly Detection via Multi-Scale Adversarial Distillation - Official Repository
 
 ## Overview
 
