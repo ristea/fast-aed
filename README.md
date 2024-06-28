@@ -18,6 +18,21 @@ For more details please read our full [paper](https://arxiv.org/pdf/2211.15597.p
 
 - **Unprecedented Speed:** Operating at an outstanding 1480 frames per second (FPS), Fast-AED achieves the best trade-off between speed and accuracy.
 
+## License
+
+The source code and models are released under the Creative Common Attribution-NonCommercial-ShareAlike 4.0 International ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)) license.
+
+## Citation 
+Please cite our work if you use any material released in this repository.
+```
+@article{Ristea-CVPR-2024,
+  author    = {Croitoru, Florinel-Alin and Ristea, Nicolae-Catalin and Dascalescu, Dana and Ionescu, Radu Tudor and Khan, Fahad Shahbaz and Shah, Mubarak},
+  title     = "{Lightning Fast Video Anomaly Detection via Multi-Scale Adversarial Distillation}",
+  journal   = {arXiv preprint arXiv:2211.15597},
+  year      = {2022},
+  }
+```
+
 ## Getting Started
 
 ### Prerequisites
@@ -34,6 +49,3 @@ Clone the repository:
 git clone https://github.com/ristea/fast-aed.git
 cd fast-aed
 ```
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
