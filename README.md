@@ -1,4 +1,6 @@
-# Lightning Fast Video Anomaly Detection via Multi-Scale Adversarial Distillation - Computer Vision and Image Understanding (Official Repository)
+# Lightning Fast Video Anomaly Detection via Multi-Scale Adversarial Distillation 
+
+## Computer Vision and Image Understanding (Official Repository)
 
 ## Overview
 
