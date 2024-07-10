@@ -1,4 +1,4 @@
-# Lightning Fast Video Anomaly Detection via Multi-Scale Adversarial Distillation - Official Repository
+# Lightning Fast Video Anomaly Detection via Multi-Scale Adversarial Distillation - Computer Vision and Image Understanding (Official Repository)
 
 ## Overview
 
@@ -25,11 +25,11 @@ The source code and models are released under the Creative Common Attribution-No
 ## Citation 
 Please cite our work if you use any material released in this repository.
 ```
-@article{Ristea-CVPR-2024,
+@article{Croitoru-CVIU-2024,
   author    = {Croitoru, Florinel-Alin and Ristea, Nicolae-Catalin and Dascalescu, Dana and Ionescu, Radu Tudor and Khan, Fahad Shahbaz and Shah, Mubarak},
   title     = "{Lightning Fast Video Anomaly Detection via Multi-Scale Adversarial Distillation}",
-  journal   = {arXiv preprint arXiv:2211.15597},
-  year      = {2022},
+  journal   = {Computer Vision and Image Understanding},
+  year      = {2024},
   }
 ```
 
